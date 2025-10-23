@@ -19,8 +19,8 @@
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arman-0201&show_icons=true&locale=en&layout=compact" alt="arman-0201" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrNone0201&show_icons=true&locale=en&layout=compact" alt="MrNone0201" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arman-0201&show_icons=true&locale=en" alt="arman-0201" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrNone0201&show_icons=true&locale=en" alt="MrNone0201" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arman-0201&" alt="arman-0201" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNone0201&" alt="MrNone0201" /></p>
