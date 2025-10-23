@@ -7,6 +7,7 @@
 <p align="left">
 </p>
 
+<div style='width:100%; display:flex;'>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="width:100%; display:flex; justify-content:space-evenly;"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
@@ -20,5 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrNone0201&show_icons=true&locale=en&layout=compact" alt="MrNone0201" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrNone0201&show_icons=true&locale=en" alt="MrNone0201" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNone0201&" alt="MrNone0201" /></p>
+</div>
