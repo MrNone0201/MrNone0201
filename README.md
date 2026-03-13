@@ -1,22 +1,70 @@
-<h3 align="center">I am System Administrator, Network Engineer and frontend developer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a8296,100:091519&height=150&text=Hi,%20I'm%20Khachik%20Mesrobyan&fontSize=45&fontColor=61DAFB&fontAlignY=45&animation=twinkling&desc=Full-Stack%20Developer%20|%20React%20|%20Node.js%20|%20JavaScript&descSize=24&descAlignY=85&section=header" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MrNone0201" alt="MrNone0201" /></a> </p>
+I'm **Khachik Mesrobyan**, a passionate **Full-Stack Developer** who enjoys creating elegant and performant web applications using modern technologies like **React**, **Node.js**, and **TypeScript**.  
+I’m always exploring animation, design systems, and scalable backend architectures.  
 
-<!-- <h3 align="left">Connect with me:</h3> -->
-<p align="left">
+💡 *“Turning ideas into beautiful code.”*
+
+---
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 📬 Connect with Me
+
+[![Mail Badge](https://img.shields.io/badge/-khachik.mesrobyan@gmail.com-dc2626?style=flat&labelColor=dc2626&logo=gmail&logoColor=white)](mailto:khachik.mesrobyan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Khachik%20Mesrobyan-0A66C2?style=flat&labelColor=0A66C2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khachik-mesrobyan-b78588359/)
+[![GitHub Badge](https://img.shields.io/badge/-mesrobyan77-181717?style=flat&labelColor=181717&logo=github&logoColor=white)](https://github.com/mesrobyan77)
+<!-- [![Discord Badge](https://img.shields.io/badge/-Mesrobyan-5865F2?style=flat&labelColor=5865F2&logo=discord&logoColor=white)](https://discord.com/users/) -->
+[![](https://komarev.com/ghpvc/?username=mesrobyan77&color=blue&label=Profile%20Views)](https://github.com/mesrobyan77)
+[![](https://img.shields.io/github/followers/mesrobyan77?label=GitHub%20Followers)](https://github.com/mesrobyan77)
+
+---
+
+### 📄 Download My CV
+
+<p align="start">
+  <a href="./Khachik_CV.pdf" download>
+    <img src="https://img.shields.io/badge/Download%20CV-3a8296?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left" style="width:100%; display:flex; justify-content:space-evenly;"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=MrNone0201&show_icons=true&locale=en&layout=compact" alt="MrNone0201" /></p>
+## 🧠 Skills
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MrNone0201&show_icons=true&locale=en" alt="MrNone0201" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MrNone0201&" alt="MrNone0201" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,sass,materialui,git,nodejs,express,sequelize,mongodb,mysql,postgres,figma,linux,github&theme=dark" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mesrobyan77&theme=react&show_icons=true&hide_border=false" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=mesrobyan77&theme=react&hide_border=false&currStreakNum=61DAFB&sideLabels=61DAFB&currStreakLabel=61DAFB" height="160" />
+</p>
+
+---
+
+## 🧮 Most Used Languages
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesrobyan77&layout=compact&langs_count=8&theme=react&hide_border=false&custom_title=Most%20Used%20Languages&include_orgs=true" height="160" />
+</p>
+
+---
+
+## 🏆 Top Contributed Repositories
+
+<p align="start">
+  <img src="https://github-contributor-stats.vercel.app/api?username=mesrobyan77&limit=5&theme=react&combine_all_yearly_contributions=true" height="160" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Code is where creativity meets logic.” ✨</i>
+</p>
+
+---
